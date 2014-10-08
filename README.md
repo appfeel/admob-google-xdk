@@ -1,6 +1,6 @@
 # Instructions to test XDK AdMob plugin:
 
-- Download the contents of [test-xdk](https://github.com/appfeel/admob-google-cordova/tree/master/test-xdk) folder
+- [Download](https://github.com/appfeel/admob-google-xdk/archive/master.zip) this project folder (or clone it with `git clone https://github.com/appfeel/admob-google-xdk.git`)
 - Open Intel XDK platform
 - Go to PROJECTS tab and click on OPEN AN INTEL XDK PROJECT
 ![Screenshot](demo/img1.png)
