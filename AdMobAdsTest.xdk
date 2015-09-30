@@ -58,15 +58,15 @@
         "originType": "cordova.io"
       },
       {
-        "id": "com.admob.google",
+        "id": "cordova-admob",
         "version": "",
         "selectedState": "Included",
         "data": {},
         "paramvals": {},
         "custom": "true",
         "name": "admob",
-        "origin": "com.admob.google",
-        "originType": "cordova.io"
+        "origin": "cordova-admob",
+        "originType": "npm"
       }
     ],
     "buildConfigurations": {
